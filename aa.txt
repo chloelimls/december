@@ -2,3 +2,4 @@
 --system 当前计算机下所有的用户生效 /etc/gitconfig
 --global 当前用户有效,对其他用户是无效 ~/.gitconfig
 --不加 	 只对某个项目有效 project/.git/config
+aaaaaa
